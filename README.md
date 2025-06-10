@@ -1,49 +1,51 @@
-<!-- Header Section -->
+<!-- Banner / Logo -->
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="BitStorm Logo" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+a+Frontend+Developer!;Crafting+beautiful+UIs+with+clean+code" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 BitStorm Project</h1>
-<p align="center">High-performance Minecraft hosting & server management powered by the community, for the community.</p>
+<h1 align="center">🎨 Frontend Developer Portfolio</h1>
 
 <p align="center">
-  <a href="https://bitstorm.net">🌐 Website</a> •
-  <a href="https://discord.gg/yourserver">💬 Discord</a> •
-  <a href="https://github.com/yourusername">👤 GitHub</a>
+  <a href="https://your-portfolio.com">🌐 Website</a> •
+  <a href="https://linkedin.com/in/yourname">🔗 LinkedIn</a> •
+  <a href="https://twitter.com/yourhandle">🐦 Twitter</a> •
+  <a href="mailto:youremail@example.com">📧 Email</a>
 </p>
 
 ---
 
-## 📦 About the Project
+## 🧑‍💻 About Me
 
-BitStorm adalah platform hosting Minecraft dengan performa tinggi dan fleksibilitas penuh. Proyek ini mencakup:
+Hi! I'm a passionate Frontend Developer who loves crafting modern, responsive, and accessible user interfaces. I specialize in turning UI/UX designs into interactive web experiences using cutting-edge technologies.
 
-- 🧠 Server monitor & kontrol panel
-- 🎮 Beragam mode game (Survival, Skyblock, OneBlock, RPG, dll)
-- ☁️ Infrastruktur cloud yang powerful
-- ⚙️ Bot Discord untuk integrasi langsung
-
----
-
-## 🧰 Tech Stack
-
-| Category        | Tools / Frameworks                       |
-|----------------|------------------------------------------|
-| Backend         | Node.js, Express, MongoDB, Prisma        |
-| Frontend        | React, Tailwind CSS, Vite                |
-| DevOps / Infra  | Docker, Nginx, PM2, Cloudflare           |
-| Game Servers    | Minecraft Paper/Spigot, GeyserMC         |
-| Bot             | Discord.js, Node-Cron                    |
+- 💻 Building beautiful websites & web apps
+- 🧠 Always learning new tools & frameworks
+- 🎯 Focused on performance, accessibility & clean code
 
 ---
 
-## 🚧 Features (Ongoing)
+## 🛠 Tech Stack
 
-- ✅ Real-time player status monitor
-- ✅ Custom game modes (OneBlock, AcidIsland, RPG)
-- 🔄 Auto-renewal & billing integration *(coming soon)*
-- 🔐 Anti-DDoS & log system
-- 📊 Web dashboard
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+---
+
+## 🧪 Projects Showcase
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [💼 Portfolio Site](https://your-portfolio.com) | React, Tailwind, Vite | Personal website & project showcase |
+| [🛒 E-commerce UI](https://github.com/yourusername/ecommerce-ui) | React, Zustand, SCSS | Fully responsive e-commerce frontend |
+| [📊 Dashboard Template](https://github.com/yourusername/admin-dashboard) | Next.js, Tailwind, Chart.js | Admin panel template with light/dark mode |
+| [📱 Landing Page](https://github.com/yourusername/landing-page) | HTML, CSS, JS | Clean & modern product landing page |
 
 ---
 
@@ -51,10 +53,10 @@ BitStorm adalah platform hosting Minecraft dengan performa tinggi dan fleksibili
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/bitstorm.git
+wle
 
 # Install dependencies
-cd bitstorm
+cd project-name
 npm install
 
 # Start the dev server
